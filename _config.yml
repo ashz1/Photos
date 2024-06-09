@@ -5,7 +5,7 @@ baseurl:     ""
 highlighter: ""
 markdown:    kramdown
 lsi:         false
-permalink:   "/:title"
+permalink:   "/Photos"
 
 kramdown:
   ## for german: "sbquo,lsquo,bdquo,ldquo"
